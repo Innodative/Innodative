@@ -12,4 +12,4 @@ Innodative can provide custom training services from introductory data analytics
 
 -----
 
-To obtain more information, please send a request to principal@innodative.com
+Obtain <principal@innodative.com>more information</a>.
