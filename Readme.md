@@ -12,4 +12,4 @@ Innodative can provide custom training services from introductory data analytics
 
 -----
 
-Obtain <principal@innodative.com>more information</a>.
+To obtain mre information, send a specific request to <principal@innodative.com>.
